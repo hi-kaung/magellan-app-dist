@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/growth/layout,_N_T_/growth/email-campaigns/layout,_N_T_/growth/email-campaigns/page,_N_T_/growth/email-campaigns"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/growth/email-campaigns/__PAGE__",
+    "/growth/email-campaigns",
+    "/growth",
+    "/_index",
+    "/_head"
+  ]
+}

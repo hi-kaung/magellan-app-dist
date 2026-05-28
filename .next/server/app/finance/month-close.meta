@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/finance/layout,_N_T_/finance/month-close/layout,_N_T_/finance/month-close/page,_N_T_/finance/month-close"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/finance/month-close/__PAGE__",
+    "/finance/month-close",
+    "/finance",
+    "/_index",
+    "/_head"
+  ]
+}

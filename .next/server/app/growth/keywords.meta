@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/growth/layout,_N_T_/growth/keywords/layout,_N_T_/growth/keywords/page,_N_T_/growth/keywords"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/growth/keywords/__PAGE__",
+    "/growth/keywords",
+    "/growth",
+    "/_index",
+    "/_head"
+  ]
+}

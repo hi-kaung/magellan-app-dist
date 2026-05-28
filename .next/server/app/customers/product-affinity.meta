@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/customers/layout,_N_T_/customers/product-affinity/layout,_N_T_/customers/product-affinity/page,_N_T_/customers/product-affinity"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/customers/product-affinity/__PAGE__",
+    "/customers/product-affinity",
+    "/customers",
+    "/_index",
+    "/_head"
+  ]
+}

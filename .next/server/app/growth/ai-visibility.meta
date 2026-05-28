@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/growth/layout,_N_T_/growth/ai-visibility/layout,_N_T_/growth/ai-visibility/page,_N_T_/growth/ai-visibility"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/growth/ai-visibility/__PAGE__",
+    "/growth/ai-visibility",
+    "/growth",
+    "/_index",
+    "/_head"
+  ]
+}
